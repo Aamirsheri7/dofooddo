@@ -19,7 +19,7 @@ html{
 #navbar{
     align-items: center;
     display: flex;
-    position:sticky;
+    position:static;
     top: 0;
     width: 100%;
 }
